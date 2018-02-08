@@ -1,2 +1,2 @@
-Meu primeiro projeto no GIT
-Agora fiz uma alteracao nesse arquivo para descrever melhor o meu projeto
+Meu perimeiro projeto no GIT
+Incluo essa linha para ver no arquivo git diff e removo a de cima
